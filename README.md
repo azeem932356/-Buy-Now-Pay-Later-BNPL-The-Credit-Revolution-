@@ -1,8 +1,6 @@
 # Buy-Now-Pay-Later-BNPL-The-Credit-Revolution
 
 
-# 💳 Buy Now, Pay Later (BNPL): The Credit Revolution 🚀
-
 This repository explores the financials, market trends, key players, and future potential of **Buy Now, Pay Later (BNPL)** services — with a deep focus on the Indian market.
 
 ---
